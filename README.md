@@ -30,7 +30,7 @@ EXAMPLES AND OTHER LEARNING RESOURCES
 
 ### Official demo
 
-[impress.js demo](http://impress.github.io/impress.js/) by [@bartaz](http://twitter.com/bartaz)
+[impress.js demo](http://bartaz.github.com/impress.js) by [@bartaz](http://twitter.com/bartaz)
 
 ### Examples and demos
 
@@ -202,7 +202,7 @@ users](http://twitter.com/n_adam_stanley/status/178188611827679233) [are quite q
 
 #### UPGRADING FROM PREVIOUS VERSIONS
 
-Because API was introduced the way impress.js script is initialized was changed a bit. You not only have to include
+Because API was introduced the way impress.js script is initialized was changed a bit. You not only has to include
 `impress.js` script file, but also call `impress()` function.
 
 See the source of `index.html` for example and more details.
